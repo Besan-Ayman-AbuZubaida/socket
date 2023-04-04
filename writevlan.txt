@@ -1,0 +1,12 @@
+vlan 10
+    name 10
+vlan 20
+    name 20
+vlan 30
+    name 30
+vlan 40
+    name 40
+vlan 50
+    name 50
+vlan 60
+    name 60
